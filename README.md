@@ -27,10 +27,12 @@ Cloud, IT infrastructure, software and technology services.
 <br />
 
 **Product Manager @ [Foodpanda](https://www.foodpanda.com)** _(Apr 2016 - Sep 2017)_  
-Global online food-delivery service operating in 40 countries.
+Global online food-delivery service.
 
-- ...
-- **_Methodologies used_**: Scrum, BDD, User story mapping, OKR
+- Designed and rolled out an in-house VoIP platform for customers and restaurants
+- Owned an automation project for order cancellations and refunds
+- Gathered requirements from stakeholders, translated them into user stories and tasks, planned sprints and wrote product documentation
+- **_Methodologies used_**: Scrum, BDD, OKR, User Story Mapping
 - **_Tools used_**: Jira, Confluence, PostgreSQL
 
 <br />
@@ -45,7 +47,7 @@ Software tools for web, mobile and desktop app development.
 <br />
 
 **Co-founder @ [Volofy](https://www.crunchbase.com/organization/volofy)** _(Sep 2013 - Jun 2014)_  
-Cause marketing platfrom connecting people, charity causes and sponsor companies.
+Connecting people, charity causes and sponsor companies.
 
 - Raised seed capital from [Eleven VC](https://www.11.me)
 - Participated in designing the MVP and building its back-end
@@ -54,7 +56,7 @@ Cause marketing platfrom connecting people, charity causes and sponsor companies
 <br />
 
 **Co-founder @ [Walk2Help](https://www.walk2help.com/)** _(Sep 2011 - May 2013)_  
-Startup company converting human steps into funds for charity causes.
+Converting human steps into funds for charity causes.
 
 - Came up with the initial idea and built the core team
 - Owned the roadmap and the development lifecycle
@@ -65,8 +67,10 @@ Startup company converting human steps into funds for charity causes.
 
 **Software Developer @ [DAVID Holding](https://www.david.bg)** _(Dec 2007 - Aug 2011)_
 
-- ...
-- **_Technologies used_**: PHP, MySQL, HTML/CSS, Javascript, ASP.NET, WPF, MSSQL
+- Converted static pages into dynamic websites
+- Maintained one of the most visited [news website](https://blitz.bg) in Bulgaria
+- Built web forms for e-government projects
+- **_Technologies used_**: PHP, MySQL, HTML/CSS, JavaScript, ASP.NET
 
 ## Education
 
