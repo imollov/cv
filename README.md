@@ -1,6 +1,6 @@
 # Ivelin Mollov
 
-_Software developer with a knack for UX_
+_Software developer with a knack for product design_
 
 [Email](mailto:ivomollov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ivelinmollov/) / [Twitter](https://twitter.com/imollov) / [GitHub](https://github.com/imollov) / [Dribbble](https://dribbble.com/imollov)
 
