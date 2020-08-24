@@ -84,10 +84,24 @@ Bachelor of Science in Informatics
 ## 👨‍🔬 Side Projects
 
 **PostcodeFinder**
+Postal code discovery web app.
+
+- [Website](https://postcodefinder.netlify.app/)
+- [Source code](https://github.com/imollov/postcode-finder)
+- **_Technologies used_**: JavaScript ES6, React, Redux, React Router, Google Maps API, GeoLocation API
+
+**Trackwise**  
+Mentorship platform for electronic music producers.
+
+- [UI/UX design](https://dribbble.com/shots/5357496-Trackwise/attachments)
+- **_Methodologies used_**: User interviews, Wireframes, Moodboards, User testing
+- **_Tools used_**: Sketch, Marvel, Balsamiq
 
 **Gridm**
+Simple rhythm step sequencer app.
 
-**Trackwise**
+- [UI concept](https://dribbble.com/shots/5356927-Gridm/attachments)
+- **_Tools used_**: Sketch
 
 ## 👨‍🏫 Courses
 
