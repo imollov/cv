@@ -18,7 +18,7 @@ Cloud, IT infrastructure, software and technology services.
 
 **Freelance Developer/Designer** _(Nov 2017 - Nov 2018)_
 
-- Fascilitated the design process of a mental health mobile app with a team of psycholgists
+- Facilitated the design process of a mental health mobile app with a team of psychologists
 - Designed and implemented a cross-platform [mobile app](https://play.google.com/store/apps/details?id=com.overcome.overcomeapp&hl=en)
 - Maintained web platforms for small businesses in the healthcare industry
 - **_Technologies used_**: Javascript, React Native, Redux, PHP, MySQL
@@ -42,7 +42,7 @@ Software tools for web, mobile and desktop app development.
 
 - Delivered competitive, customer and market research reports for the DevTools suite to senior management, product and engineering teams
 - Led an initiative for increasing the conversion rate of the DevTools trial users
-- Conducted numerous interviews with software developers accross the globe
+- Conducted numerous interviews with software developers across the globe
 
 <br />
 
