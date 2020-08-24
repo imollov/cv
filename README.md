@@ -72,15 +72,6 @@ Converting human steps into funds for charity causes.
 - Built web forms for e-government projects
 - **_Technologies used_**: PHP, MySQL, HTML/CSS, JavaScript, ASP.NET
 
-## 👨‍🎓 Education
-
-**New Bulgarian University** _(Sep 2009 - May 2013)_  
-Bachelor of Science in Informatics
-
-- Specialized in computer programming
-- Speaker at [TEDxNBU](https://www.youtube.com/watch?v=_fvBbjnbiKQ&t=9s)
-- Microsoft Student Partner and MSDN Administrator
-
 ## 👨‍🔬 Side Projects
 
 **PostcodeFinder**  
@@ -103,12 +94,29 @@ Simple rhythm step sequencer app.
 - [UI concept](https://dribbble.com/shots/5356927-Gridm/attachments)
 - **_Tools used_**: Sketch
 
+## 👨‍🎓 Education
+
+**New Bulgarian University** _(Sep 2009 - May 2013)_  
+Bachelor of Science in Informatics
+
+- Specialized in computer programming
+- Speaker at [TEDxNBU](https://www.youtube.com/watch?v=_fvBbjnbiKQ&t=9s)
+- Microsoft Student Partner and MSDN Administrator
+
 ## 👨‍🏫 Courses
 
-**React Web Applications Masterclass @ SoftUnit**  
+**React Web Applications Masterclass @ SoftUnit** _(2019)_  
 Course project: [SWAPP](https://github.com/imollov/swapp)
 
-...
+**ES6 JavaScript @ Udemy** _(2018)_
+
+**Human-Centered Design @ Coursera** _(2018)_
+
+**Prototyping and Design @ Coursera** _(2018)_
+
+**UI Design @ Coursera** _(2018)_
+
+**Intro to Typography @ Coursera** _(2018)_
 
 ## 🏅 Accomplishments
 
