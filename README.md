@@ -83,7 +83,7 @@ Bachelor of Science in Informatics
 
 ## 👨‍🔬 Side Projects
 
-**PostcodeFinder**
+**PostcodeFinder**  
 Postal code discovery web app.
 
 - [Website](https://postcodefinder.netlify.app/)
@@ -97,7 +97,7 @@ Mentorship platform for electronic music producers.
 - **_Methodologies used_**: User interviews, Wireframes, Moodboards, User testing
 - **_Tools used_**: Sketch, Marvel, Balsamiq
 
-**Gridm**
+**Gridm**  
 Simple rhythm step sequencer app.
 
 - [UI concept](https://dribbble.com/shots/5356927-Gridm/attachments)
