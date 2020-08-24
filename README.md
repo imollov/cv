@@ -80,7 +80,7 @@ Postal code discovery web app.
 **Trackwise** _(2018)_  
 Mentorship platform for electronic music producers.
 
-- [UI/UX design](https://dribbble.com/shots/5357496-Trackwise/attachments)
+- [UI/UX design](https://uxfol.io/project/0480605d/Trackwise)
 - **_Methodologies used_**: User interviews, Wireframes, Moodboards, User testing
 - **_Tools used_**: Sketch, Marvel, Balsamiq
   <br><br>
