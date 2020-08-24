@@ -9,8 +9,8 @@ _Software developer with a knack for product design_
 **Software Developer @ [Hewlett Packard Enterprise](https://www.hpe.com/)** _(Nov 2018 - Present)_  
 Cloud, IT infrastructure, software and technology services.
 
-- Leading the development of web browser extensions enhancing and automating technical support tasks
-- Introduced Agile and Scrum best practices into the development lifecycle
+- Leading the development of web browser extensions for enhancing and automating technical support tasks
+- Introduced best practices from Scrum and Lean into the development lifecycle
 - **_Technologies used_**: JavaScript, React, Jest, Webpack, Babel, GitLab CI, Node.js, REST, Azure Functions
 - **_Open source work_**: [Web extension starter kit](https://github.com/imollov/grommet-web-extension-starter)
 
@@ -29,7 +29,7 @@ Cloud, IT infrastructure, software and technology services.
 **Product Manager @ [Foodpanda](https://www.foodpanda.com)** _(Apr 2016 - Sep 2017)_  
 Global online food-delivery service.
 
-- Designed and rolled out an in-house VoIP platform for customers and restaurants
+- Designed and rolled out an in-house VoIP platform for customer and restaurant support
 - Owned an automation project for order cancellations and refunds
 - Gathered requirements from stakeholders, translated them into user stories and tasks, planned sprints and wrote product documentation
 - **_Methodologies used_**: Scrum, BDD, OKR, User Story Mapping
@@ -97,7 +97,7 @@ Simple rhythm step sequencer app.
 ## 👨‍🎓 Education
 
 **New Bulgarian University** _(Sep 2009 - May 2013)_  
-Bachelor of Science in Informatics
+Bachelor of Science, Informatics
 
 - Specialized in computer programming
 - Speaker at [TEDxNBU](https://www.youtube.com/watch?v=_fvBbjnbiKQ&t=9s)
