@@ -72,7 +72,7 @@ Converting human steps into funds for charity causes.
 - Built web forms for e-government projects
 - **_Technologies used_**: PHP, MySQL, HTML/CSS, JavaScript, ASP.NET
 
-## Education
+## 👨‍🎓 Education
 
 **New Bulgarian University** _(Sep 2009 - May 2013)_  
 Bachelor of Science in Informatics
@@ -81,7 +81,7 @@ Bachelor of Science in Informatics
 - Speaker at [TEDxNBU](https://www.youtube.com/watch?v=_fvBbjnbiKQ&t=9s)
 - Microsoft Student Partner and MSDN Administrator
 
-## Side Projects
+## 👨‍🔬 Side Projects
 
 **PostcodeFinder**
 
@@ -89,14 +89,14 @@ Bachelor of Science in Informatics
 
 **Trackwise**
 
-## Courses
+## 👨‍🏫 Courses
 
 **React Web Applications Masterclass @ SoftUnit**  
 Course project: [SWAPP](https://github.com/imollov/swapp)
 
 ...
 
-## Accomplishments
+## 🏅 Accomplishments
 
 **Forbes Magazine "30 under 30" in Bulgaria** _(2014)_  
 Technology & Innovation category.
