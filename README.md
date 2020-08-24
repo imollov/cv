@@ -11,7 +11,7 @@ Cloud, IT infrastructure, software and technology services.
 
 - Leading the development of web browser extensions enhancing and automating technical support tasks
 - Introduced Agile and Scrum best practices into the development lifecycle
-- **_Technologies used_**: JavaScript ES6, React, Jest, Webpack, Babel, GitLab CI, Node.js, REST, Azure Functions
+- **_Technologies used_**: JavaScript, React, Jest, Webpack, Babel, GitLab CI, Node.js, REST, Azure Functions
 - **_Open source work_**: [Web extension starter kit](https://github.com/imollov/grommet-web-extension-starter)
 
 <br />
@@ -21,7 +21,7 @@ Cloud, IT infrastructure, software and technology services.
 - Fascilitated the design process of a mental health mobile app with a team of psycholgists
 - Designed and implemented a cross-platform [mobile app](https://play.google.com/store/apps/details?id=com.overcome.overcomeapp&hl=en)
 - Maintained web platforms for small businesses in the healthcare industry
-- **_Technologies used_**: Javascript ES6, React Native, Redux, PHP, MySQL
+- **_Technologies used_**: Javascript, React Native, Redux, PHP, MySQL
 - **_Tools used_**: Sketch, Invision, Expo
 
 <br />
@@ -74,21 +74,21 @@ Converting human steps into funds for charity causes.
 
 ## 👨‍🔬 Side Projects
 
-**PostcodeFinder**  
+**PostcodeFinder** _(2020)_  
 Postal code discovery web app.
 
 - [Website](https://postcodefinder.netlify.app/)
-- [Source code](https://github.com/imollov/postcode-finder)
-- **_Technologies used_**: JavaScript ES6, React, Redux, React Router, Google Maps API, GeoLocation API
+- [Repository](https://github.com/imollov/postcode-finder)
+- **_Technologies used_**: JavaScript, React, Redux, React Router, Google Maps API
 
-**Trackwise**  
+**Trackwise** _(2018)_  
 Mentorship platform for electronic music producers.
 
 - [UI/UX design](https://dribbble.com/shots/5357496-Trackwise/attachments)
 - **_Methodologies used_**: User interviews, Wireframes, Moodboards, User testing
 - **_Tools used_**: Sketch, Marvel, Balsamiq
 
-**Gridm**  
+**Gridm** _(2018)_  
 Simple rhythm step sequencer app.
 
 - [UI concept](https://dribbble.com/shots/5356927-Gridm/attachments)
@@ -121,7 +121,7 @@ Course project: [SWAPP](https://github.com/imollov/swapp)
 ## 🏅 Accomplishments
 
 **Forbes Magazine "30 under 30" in Bulgaria** _(2014)_  
-Technology & Innovation category.
+Listed in Technology & Innovations category.
 
 **Worldwide Finalist at Imagine Cup** _(2010)_  
 Represented Bulgaria at the world's biggest student competition for innovations organized by Microsoft.
