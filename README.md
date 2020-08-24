@@ -2,7 +2,7 @@
 
 _Software developer with a knack for UX_
 
-Email / LinkedIn / Twitter / GitHub / Dribbble
+[Email](mailto:ivomollov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ivelinmollov/) / [Twitter](https://twitter.com/imollov) / [GitHub](https://github.com/imollov) / [Dribbble](https://dribbble.com/imollov)
 
 ## 👨🏻‍💻 Experience
 
