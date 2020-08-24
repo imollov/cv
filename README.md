@@ -13,8 +13,7 @@ Cloud, IT infrastructure, software and technology services.
 - Introduced best practices from Scrum and Lean into the development lifecycle
 - **_Technologies used_**: JavaScript, React, Jest, Webpack, Babel, GitLab CI, Node.js, REST, Azure Functions
 - **_Open source work_**: [Web extension starter kit](https://github.com/imollov/grommet-web-extension-starter)
-
-<br>
+  <br><br>
 
 **Freelance Developer/Designer** _(Nov 2017 - Nov 2018)_
 
@@ -23,8 +22,7 @@ Cloud, IT infrastructure, software and technology services.
 - Maintained web platforms for small businesses in the healthcare industry
 - **_Technologies used_**: Javascript, React Native, Redux, PHP, MySQL
 - **_Tools used_**: Sketch, Invision, Expo
-
-<br>
+  <br><br>
 
 **Product Manager @ [Foodpanda](https://www.foodpanda.com)** _(Apr 2016 - Sep 2017)_  
 Global online food-delivery service.
@@ -34,8 +32,7 @@ Global online food-delivery service.
 - Gathered requirements from stakeholders, translated them into user stories and tasks, planned sprints and wrote product documentation
 - **_Methodologies used_**: Scrum, BDD, OKR, User Story Mapping
 - **_Tools used_**: Jira, Confluence, PostgreSQL
-
-<br>
+  <br><br>
 
 **Product Marketing Specialist @ [Telerik](https://www.telerik.com/)** _(Sep 2014 - Sep 2015)_  
 Software tools for web, mobile and desktop app development.
@@ -43,8 +40,7 @@ Software tools for web, mobile and desktop app development.
 - Delivered competitive, customer and market research reports for the DevTools suite to senior management, product and engineering teams
 - Led an initiative for increasing the conversion rate of the DevTools trial users
 - Conducted numerous interviews with software developers across the globe
-
-<br>
+  <br><br>
 
 **Co-founder @ [Volofy](https://www.crunchbase.com/organization/volofy)** _(Sep 2013 - Jun 2014)_  
 Connecting people, charity causes and sponsor companies.
@@ -52,8 +48,7 @@ Connecting people, charity causes and sponsor companies.
 - Raised seed capital from [Eleven VC](https://www.11.me)
 - Participated in designing the MVP and building its back-end
 - **_Technologies used_**: PHP, MySQL, HTML/CSS
-
-<br />
+  <br><br>
 
 **Co-founder @ [Walk2Help](https://www.walk2help.com/)** _(Sep 2011 - May 2013)_  
 Converting human steps into funds for charity causes.
@@ -62,8 +57,7 @@ Converting human steps into funds for charity causes.
 - Owned the roadmap and the development lifecycle
 - Participated in the UI/UX design, back-end platform and mobile apps development
 - **_Technologies used_**: ASP.NET, Silverlight, WCF, REST, ADO.NET, MSSQL, Azure
-
-<br>
+  <br><br>
 
 **Software Developer @ [DAVID Holding](https://www.david.bg)** _(Dec 2007 - Aug 2011)_
 
@@ -71,8 +65,7 @@ Converting human steps into funds for charity causes.
 - Maintained one of the most visited [news website](https://blitz.bg) in Bulgaria
 - Built web forms for e-government projects
 - **_Technologies used_**: PHP, MySQL, HTML/CSS, JavaScript, ASP.NET
-
-<br>
+  <br><br>
 
 ## 👨‍🔬 Side Projects
 
@@ -82,8 +75,7 @@ Postal code discovery web app.
 - [Website](https://postcodefinder.netlify.app/)
 - [Repository](https://github.com/imollov/postcode-finder)
 - **_Technologies used_**: JavaScript, React, Redux, React Router, Google Maps API
-
-<br>
+  <br><br>
 
 **Trackwise** _(2018)_  
 Mentorship platform for electronic music producers.
@@ -91,16 +83,14 @@ Mentorship platform for electronic music producers.
 - [UI/UX design](https://dribbble.com/shots/5357496-Trackwise/attachments)
 - **_Methodologies used_**: User interviews, Wireframes, Moodboards, User testing
 - **_Tools used_**: Sketch, Marvel, Balsamiq
-
-<br>
+  <br><br>
 
 **Gridm** _(2018)_  
 Simple rhythm step sequencer app.
 
 - [UI concept](https://dribbble.com/shots/5356927-Gridm/attachments)
 - **_Tools used_**: Sketch
-
-<br>
+  <br><br>
 
 ## 👨‍🎓 Education
 
@@ -110,8 +100,7 @@ Bachelor of Science, Informatics
 - Specialized in computer programming
 - Speaker at [TEDxNBU](https://www.youtube.com/watch?v=_fvBbjnbiKQ&t=9s)
 - Microsoft Student Partner and MSDN Administrator
-
-<br>
+  <br><br>
 
 ## 👨‍🏫 Courses
 
@@ -127,8 +116,7 @@ Course project: [SWAPP](https://github.com/imollov/swapp)
 **UI Design @ Coursera** _(2018)_
 
 **Intro to Typography @ Coursera** _(2018)_
-
-<br>
+<br><br>
 
 ## 🏅 Accomplishments
 
