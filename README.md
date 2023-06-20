@@ -1,111 +1,109 @@
 # Ivelin Mollov
 
-_Software developer with a knack for product design_
+_Full-Stack Developer & Product Engineer_
 
-[Email](mailto:ivomollov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ivelinmollov/) / [Twitter](https://twitter.com/imollov) / [GitHub](https://github.com/imollov) / [Dribbble](https://dribbble.com/imollov)
+15 years of experience in coding, product management, and entrepreneurship.<br>
+Passionate about UX design and solving real problems in innovative ways.<br>
+Currently focused on blockchain and decentralized applications.
 
 ## 👨🏻‍💻 Experience
 
-**Software Developer @ [Hewlett Packard Enterprise](https://www.hpe.com/)** _(Nov 2018 - Present)_  
-Cloud, IT infrastructure, software and technology services.
+**Full-Stack Blockchain Developer @ [HackBG](https://www.hack.bg/)** _(Nov 2020 - Present)_<br>
+Blockchain consulting and development
 
-- Leading the development of web browser extensions for enhancing and automating technical support tasks
-- Introduced best practices from Scrum and Lean into the development lifecycle
-- **_Technologies used_**: JavaScript, React, Jest, Webpack, Babel, GitLab CI, Node.js, REST, Azure Functions
+- Main contributor in several smart contract and dApp projects for [Chainlink](https://chain.link/)
+- Delivered smart contracts for various NFT drops on Ethereum
+- Participated in the development of a wallet for the [Aeternity](https://aeternity.com/) blockchain
+- Taught EVM smart contract development at [HackAcademy](https://academy.hack.bg/)
+- Spoke at [SmartCon 2022](https://blog.chain.link/smartcon-2022-recap/) in NYC
+- **_Technologies used_**: Solidity, TypeScript, React/Vue, Next.js, Hardhat
+- **_Selected open source work_**:
+  - [MakerDAO integration](https://github.com/hackbg/chainlink-makerdao-automation)
+  - [DeFi vault harvester](https://github.com/smartcontractkit/chainlink-automation-templates/tree/main/vault-harvester)
+  - [Batch NFT reveal](https://github.com/smartcontractkit/chainlink-automation-templates/tree/main/batch-nft-reveal)
+
+<br>
+
+**Software Developer @ [Hewlett Packard Enterprise](https://www.hpe.com/)** _(Nov 2018 - Oct 2020)_<br>
+Cloud, IT infrastructure, software and technology services
+
+- Led the development of web browser extensions suite for enhancing and automating technical support tasks
+- Saved thousands of hours of manual work for the support agents
+- Introduced scrum and agile practices to the team
+- **_Technologies used_**: JavaScript, React, Azure Functions
 - **_Open source work_**: [Web extension starter kit](https://github.com/imollov/grommet-web-extension-starter)
-  <br><br>
 
-**Freelance Developer/Designer** _(Nov 2017 - Nov 2018)_
+<br>
 
+**Software Developer** _(Nov 2017 - Oct 2018)_<br>
+Freelance web and mobile development
+
+- Maintained web platforms for e-commerce and medical labs management
 - Facilitated the design process of a mental health mobile app with a team of psychologists
 - Designed and implemented a cross-platform [mobile app](https://play.google.com/store/apps/details?id=com.overcome.overcomeapp&hl=en)
-- Maintained web platforms for small businesses in the healthcare industry
-- **_Technologies used_**: Javascript, React Native, Redux, PHP, MySQL
-- **_Tools used_**: Sketch, Invision, Expo
-  <br><br>
+- **_Technologies used_**: JavaScript, React Native, PHP, MySQL
 
-**Product Manager @ [Foodpanda](https://www.foodpanda.com)** _(Apr 2016 - Sep 2017)_  
-Global online food-delivery service.
+<br>
 
-- Designed and rolled out an in-house VoIP platform for customer and restaurant support
-- Owned an automation project for order cancellations and refunds
+**Product Manager Associate @ [Foodpanda HQ](https://www.foodpanda.com)** _(Apr 2016 - Sep 2017)_<br>
+Global online food-delivery service
+
+- Led an automation project for order cancellations and refunds in 10 countries
+- Rolled out an in-house VoIP platform for customer and restaurant support in 5 countries
 - Gathered requirements from stakeholders, translated them into user stories and tasks, planned sprints and wrote product documentation
 - **_Methodologies used_**: Scrum, BDD, OKR, User Story Mapping
-- **_Tools used_**: Jira, Confluence, PostgreSQL
-  <br><br>
 
-**Product Marketing Specialist @ [Telerik](https://www.telerik.com/)** _(Sep 2014 - Sep 2015)_  
-Software tools for web, mobile and desktop app development.
+<br>
 
-- Delivered competitive, customer and market research reports for the DevTools suite to senior management, product and engineering teams
+**Product Marketing Specialist @ [Telerik](https://www.telerik.com/)** _(Sep 2014 - Sep 2015)_<br>
+Software tools for web, mobile and desktop app development
+
+- Delivered competitive, customer and market research reports for the DevTools suite
 - Led an initiative for increasing the conversion rate of the DevTools trial users
-- Conducted numerous interviews with software developers across the globe
-  <br><br>
+- Conducted customer interviews with software developers across the globe
+- **_Tools used_**: Tableau, Google Analytics, SurveyMonkey
 
-**Co-founder @ [Volofy](https://www.crunchbase.com/organization/volofy)** _(Sep 2013 - Jun 2014)_  
-Connecting people, charity causes and sponsor companies.
+<br>
 
-- Raised seed capital from [Eleven VC](https://www.11.me)
-- Participated in designing the MVP and building its back-end
+**Co-Founder @ [Volofy](https://www.crunchbase.com/organization/volofy)** _(Sep 2013 - Jun 2014)_<br>
+Connecting people, charity causes and sponsor companies
+
+- Led the MVP design and development
+- Raised seed capital from [Eleven VC](https://www.11.me) and participated in the accelerator program
 - **_Technologies used_**: PHP, MySQL, HTML/CSS
-  <br><br>
 
-**Co-founder @ [Walk2Help](https://www.walk2help.com/)** _(Sep 2011 - May 2013)_  
-Converting human steps into funds for charity causes.
+<br>
 
-- Came up with the initial idea and built the core team
+**Co-Founder @ [Walk2Help](https://www.walk2help.com/)** _(Sep 2011 - May 2013)_<br>
+Mobile app converting steps into funds for charity causes
+
+- Led a team of 5 people
 - Owned the roadmap and the development lifecycle
-- Participated in the UI/UX design, back-end platform and mobile apps development
-- **_Technologies used_**: ASP.NET, Silverlight, WCF, REST, ADO.NET, MSSQL, Azure
-  <br><br>
+- Got acquihired by DAVID Holding
+- **_Technologies used_**: ASP.NET, Silverlight, WCF, MSSQL, Azure
 
-**Software Developer @ [DAVID Holding](https://www.david.bg)** _(Dec 2007 - Aug 2011)_
+<br>
 
+**Junior Software Developer @ [DAVID Holding](https://www.david.bg)** _(Dec 2007 - Aug 2011)_<br>
+Part-time student job
+
+- Created web form applications for e-government portals
+- Maintained one of the most visited news website in Bulgaria
 - Converted static pages into dynamic websites
-- Maintained one of the most visited [news website](https://blitz.bg) in Bulgaria
-- Built web forms for e-government projects
-- **_Technologies used_**: PHP, MySQL, HTML/CSS, JavaScript, ASP.NET
-  <br><br>
-
-## 👨‍🔬 Side Projects
-
-**PostcodeFinder** _(2020)_  
-Postal code discovery web app.
-
-- [Website](https://postcodefinder.netlify.app/)
-- [Repository](https://github.com/imollov/postcode-finder)
-- **_Technologies used_**: JavaScript, React, Redux, React Router, Google Maps API
-  <br><br>
-
-**Trackwise** _(2018)_  
-Mentorship platform for electronic music producers.
-
-- [UI/UX design](https://uxfol.io/project/0480605d/Trackwise)
-- **_Methodologies used_**: User interviews, Wireframes, Moodboards, User testing
-- **_Tools used_**: Sketch, Marvel, Balsamiq
-  <br><br>
-
-**Gridm** _(2018)_  
-Simple rhythm step sequencer app.
-
-- [UI concept](https://dribbble.com/shots/5356927-Gridm/attachments)
-- **_Tools used_**: Sketch
-  <br><br>
+- **_Technologies used_**: PHP, MySQL, JavaScript, ASP.NET
 
 ## 👨‍🎓 Education
 
 **New Bulgarian University** _(Sep 2009 - May 2013)_  
-Bachelor of Science, Informatics
+BSc in Informatics
 
-- Specialized in computer programming
+- Major in Computer Programming
+- Microsoft Student Partner
 - Speaker at [TEDxNBU](https://www.youtube.com/watch?v=_fvBbjnbiKQ&t=9s)
-- Microsoft Student Partner and MSDN Administrator
-  <br><br>
 
 ## 👨‍🏫 Courses
 
-**React Web Applications Masterclass @ SoftUnit** _(2019)_  
-Course project: [SWAPP](https://github.com/imollov/swapp)
+**React Web Applications Masterclass @ SoftUni** _(2019)_
 
 **ES6 JavaScript @ Udemy** _(2018)_
 
@@ -113,15 +111,21 @@ Course project: [SWAPP](https://github.com/imollov/swapp)
 
 **Prototyping and Design @ Coursera** _(2018)_
 
-**UI Design @ Coursera** _(2018)_
+## 👨‍🔬 Side Projects
 
-**Intro to Typography @ Coursera** _(2018)_
-<br><br>
+**PostcodeFinder** _(2020)_  
+Postal code discovery web app ([code](https://github.com/imollov/postcode-finder))
+
+**Trackwise** _(2018)_  
+Mentorship platform for electronic music producers ([design](https://uxfol.io/project/0480605d/Trackwise))
+
+**Gridm** _(2018)_  
+Simple rhythm step sequencer app ([design](https://dribbble.com/shots/5356927-Gridm/attachments))
 
 ## 🏅 Accomplishments
 
 **Forbes Magazine "30 under 30" in Bulgaria** _(2014)_  
-Listed in Technology & Innovations category.
+Listed in Technology & Innovations category
 
-**Worldwide Finalist at Imagine Cup** _(2010)_  
-Represented Bulgaria at the world's biggest student competition for innovations organized by Microsoft.
+**Worldwide Finalist at Imagine Cup NYC** _(2010)_  
+Represented Bulgaria at the world's biggest student competition for innovations organized by Microsoft
