@@ -1,6 +1,6 @@
 # Ivelin Mollov
 
-_Full-Stack Developer & Product Engineer_
+_Product-Minded Software Engineer_
 
 15 years of experience in coding, product management, and entrepreneurship.<br>
 Passionate about UX design and solving real problems in innovative ways.<br>
@@ -8,14 +8,14 @@ Currently focused on blockchain and decentralized applications.
 
 ## 👨🏻‍💻 Experience
 
-**Full-Stack Blockchain Developer @ [HackBG](https://www.hack.bg/)** _(Nov 2020 - Present)_<br>
+**Full-Stack Blockchain Engineer @ [HackBG](https://www.hack.bg/)** _(Nov 2020 - Present)_<br>
 Blockchain consulting and development
 
-- Main contributor in several smart contract and dApp projects for [Chainlink](https://chain.link/)
+- Main contributor in several smart contract and dApp projects for Chainlink
 - Delivered smart contracts for various NFT drops on Ethereum
-- Participated in the development of a wallet for the [Aeternity](https://aeternity.com/) blockchain
-- Taught EVM smart contract development at [HackAcademy](https://academy.hack.bg/)
-- Spoke at [SmartCon 2022](https://blog.chain.link/smartcon-2022-recap/) in NYC
+- Participated in the development of a wallet for the Aeternity blockchain
+- Taught EVM smart contract development at HackAcademy
+- Spoke at SmartCon 2022 in NYC
 - **_Technologies used_**: Solidity, TypeScript, React/Vue, Next.js, Hardhat
 - **_Selected open source work_**:
   - [MakerDAO integration](https://github.com/hackbg/chainlink-makerdao-automation)
@@ -24,7 +24,7 @@ Blockchain consulting and development
 
 <br>
 
-**Software Developer @ [Hewlett Packard Enterprise](https://www.hpe.com/)** _(Nov 2018 - Oct 2020)_<br>
+**Software Engineer @ [Hewlett Packard Enterprise](https://www.hpe.com/)** _(Nov 2018 - Oct 2020)_<br>
 Cloud, IT infrastructure, software and technology services
 
 - Led the development of web browser extensions suite for enhancing and automating technical support tasks
@@ -35,12 +35,12 @@ Cloud, IT infrastructure, software and technology services
 
 <br>
 
-**Software Developer** _(Nov 2017 - Oct 2018)_<br>
+**Software Engineer** _(Nov 2017 - Oct 2018)_<br>
 Freelance web and mobile development
 
 - Maintained web platforms for e-commerce and medical labs management
 - Facilitated the design process of a mental health mobile app with a team of psychologists
-- Designed and implemented a cross-platform [mobile app](https://play.google.com/store/apps/details?id=com.overcome.overcomeapp&hl=en)
+- Designed and implemented a cross-platform mobile app
 - **_Technologies used_**: JavaScript, React Native, PHP, MySQL
 
 <br>
@@ -69,12 +69,12 @@ Software tools for web, mobile and desktop app development
 Connecting people, charity causes and sponsor companies
 
 - Led the MVP design and development
-- Raised seed capital from [Eleven VC](https://www.11.me) and participated in the accelerator program
+- Raised seed capital from Eleven VC and participated in the accelerator program
 - **_Technologies used_**: PHP, MySQL, HTML/CSS
 
 <br>
 
-**Co-Founder @ [Walk2Help](https://www.walk2help.com/)** _(Sep 2011 - May 2013)_<br>
+**Co-Founder @ [Walk2Help](https://youtu.be/pPXELNBAXJ4)** _(Sep 2011 - May 2013)_<br>
 Mobile app converting steps into funds for charity causes
 
 - Led a team of 5 people
@@ -84,7 +84,7 @@ Mobile app converting steps into funds for charity causes
 
 <br>
 
-**Junior Software Developer @ [DAVID Holding](https://www.david.bg)** _(Dec 2007 - Aug 2011)_<br>
+**Junior Software Engineer @ [DAVID Holding](https://www.david.bg)** _(Dec 2007 - Aug 2011)_<br>
 Part-time student job
 
 - Created web form applications for e-government portals
@@ -113,14 +113,14 @@ BSc in Informatics
 
 ## 👨‍🔬 Side Projects
 
-**PostcodeFinder** _(2020)_  
-Postal code discovery web app ([code](https://github.com/imollov/postcode-finder))
+**[PostcodeFinder](https://github.com/imollov/postcode-finder)** _(2020)_  
+Postal code discovery web app
 
-**Trackwise** _(2018)_  
-Mentorship platform for electronic music producers ([design](https://uxfol.io/project/0480605d/Trackwise))
+**[Trackwise](https://uxfol.io/project/0480605d/Trackwise)** _(2018)_  
+Mentorship platform for electronic music producers
 
-**Gridm** _(2018)_  
-Simple rhythm step sequencer app ([design](https://dribbble.com/shots/5356927-Gridm/attachments))
+**[Gridm](https://dribbble.com/shots/5356927-Gridm/attachments)** _(2018)_  
+Simple rhythm step sequencer app
 
 ## 🏅 Accomplishments
 
